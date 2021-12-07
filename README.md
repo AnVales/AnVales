@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnVales
+- 👋 Hi, I’m Ángela.
 - 👀 I’m interested in statistical analysis, modeling and simulations.
 - 🌱 I’m currently learning Python and R.
 - 👩🏻‍🔬 I have knowledge of physics, chemistry, biology and geology.
