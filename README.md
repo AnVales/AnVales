@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ángela.
 - 👀 I’m interested in statistical analysis, modeling and simulations.
-- 🌱 I’m currently learning Python and R.
+- 🌱 I’m currently learning Python, SQL and Power BI.
 - 👩🏻‍🔬 I have knowledge of physics, chemistry, biology and geology.
 
 <!---
