@@ -18,8 +18,16 @@ Transformo datos en información valiosa para la toma de decisiones estratégica
 
 ## 🚀 Proyectos destacados
 
-🔹 **[SQL desde cero](https://github.com/AnVales/SQL-desde-cero)**  
-📘 Curso práctico con ejercicios para aprender SQL desde lo básico.  
+🔹 📈 **[E-commerce Analysis](https://github.com/AnVales/TuRepositorio)**  
+
+Análisis completo de los datos de una tienda online para extraer insights clave de negocio:  
+
+- 🔍 **Exploración de datos**: revisión de ventas, clientes y categorías de productos.  
+- 📊 **KPIs principales**: ingresos, ticket promedio, clientes recurrentes vs nuevos.  
+- 📈 **Visualizaciones interactivas**: dashboards en Power BI para la toma de decisiones.  
+- 🤖 **Análisis avanzado**: cohortes de clientes y tendencias de ventas.  
+
+💡 Este proyecto refleja mi capacidad para aplicar **análisis de datos al contexto real de negocio** en e-commerce.
 
 🔹 **[Pandas Intro](https://github.com/AnVales/Pandas_intro)**  
 📊 Ejercicios prácticos de análisis y manipulación de datos en Python.  
