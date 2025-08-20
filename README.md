@@ -1,15 +1,63 @@
-👋 Hi, I’m Ángela.
+# 👋 ¡Hola! Soy Ángela Vales  
 
-📊 Aspiring Data Analyst passionate about transforming data into insights.
+🎯 **Analista de Datos en búsqueda activa de nuevas oportunidades**  
+Transformo datos en información valiosa para la toma de decisiones estratégicas.  
 
-👀 Interested in statistical analysis, data modeling, and business intelligence.
+📊 Con experiencia en **Python, SQL y Power BI**, y formación en **Machine Learning y Análisis Predictivo**, me apasiona trabajar con datos reales para resolver problemas de negocio.  
 
-🌱 Currently learning Python, SQL, and Power BI to build strong analytical workflows.
+---
 
-🔬 Background in physics, chemistry, biology, and geology, which gives me a solid foundation for analytical thinking and problem-solving.
+## 🏆 Logros y certificaciones  
 
-🚀 Goal: Apply data analysis to generate actionable insights and support decision-making.
-<!---
-AnVales/AnVales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✅ **Python for Data Science** – IBM  
+✅ **Introducción al Machine Learning** – Kaggle  
+✅ **Análisis de Datos con Pandas y Numpy** – Kaggle  
+✅ **Power BI para Análisis Empresarial** – Udemy  
+
+---
+
+## 🚀 Proyectos destacados
+
+🔹 **[SQL desde cero](https://github.com/AnVales/SQL-desde-cero)**  
+📘 Curso práctico con ejercicios para aprender SQL desde lo básico.  
+
+🔹 **[Pandas Intro](https://github.com/AnVales/Pandas_intro)**  
+📊 Ejercicios prácticos de análisis y manipulación de datos en Python.  
+
+🔹 **[Power BI](https://github.com/AnVales/Power-BI)**  
+📈 Dashboards interactivos sobre movilidad y deportes.  
+
+🔹 **[Python for Data Science](https://github.com/AnVales/Python-for-Data-Science)**  
+🐍 Ejercicios del curso de IBM: desde fundamentos de Python hasta análisis con Pandas y Numpy.  
+
+🔹 **[Intro to Machine Learning](https://github.com/AnVales/Intro_to_Machine_Learning)**  
+🤖 Modelos de clasificación y regresión, validación y Random Forest.  
+
+---
+
+## 🛠️ Habilidades técnicas
+
+- **Lenguajes:** Python, SQL  
+- **Bibliotecas:** Pandas, Numpy, Matplotlib, Scikit-learn  
+- **Herramientas:** Power BI, Excel, Jupyter Notebook  
+- **Bases de datos:** SQLite, MySQL  
+- **Análisis de datos:** Limpieza, visualización, modelado predictivo  
+
+---
+
+## 📊 Mis estadísticas en GitHub  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnVales&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnVales&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contacto  
+
+- ✉️ Email: **a.vales@outlook.es**  
+- 💼 LinkedIn: [Ángela Vales](https://www.linkedin.com/in/%C3%A1ngela-vales)  
+
+---
+
+✨ *Actualmente disponible para oportunidades como **Analista de Datos** (remoto o presencial).*  
+🚀 *Mi objetivo: seguir creciendo en el mundo del Data Science y aportar valor a través de los datos.*  
