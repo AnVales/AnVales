@@ -22,10 +22,10 @@ Transformo datos en información valiosa para la toma de decisiones estratégica
 
 Análisis completo de los datos de una tienda online para extraer insights clave de negocio:  
 
-- 🔍 **KPIs y métricas clave: beneficios, margen por producto, unidades vendidas, productos más rentables..  
-- 📊 **Análisis temporal: evolución mensual y anual de ventas y beneficios, comparaciones por trimestre..  
+- 🔍 **KPIs y métricas clave**: beneficios, margen por producto, unidades vendidas, productos más rentables..  
+- 📊 **Análisis temporal**: evolución mensual y anual de ventas y beneficios, comparaciones por trimestre..  
 - 📈 **Visualizaciones interactivas**: dashboards en Power BI para la toma de decisiones.  
-- 🤖 **Validación de datos: detección de errores comunes (fechas inválidas, precios menores al coste, ventas en cero)..  
+- 🤖 **Validación de datos**: detección de errores comunes (fechas inválidas, precios menores al coste, ventas en cero)..  
 
 💡 Este proyecto refleja mi capacidad para aplicar **análisis de datos al contexto real de negocio** en e-commerce.
 
