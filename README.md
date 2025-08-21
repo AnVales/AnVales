@@ -10,36 +10,31 @@ Transformo datos en información valiosa para la toma de decisiones estratégica
 ## 🏆 Logros y certificaciones  
 
 ✅ **Python for Data Science** – IBM  
-✅ **Introducción al Machine Learning** – Kaggle  
+✅ **Big Data. Analítica de datos** – Ilunion  
 ✅ **Análisis de Datos con Pandas y Numpy** – Kaggle  
-✅ **Power BI para Análisis Empresarial** – Udemy  
+✅ **Curso Power BI** – Udemy  
 
 ---
 
 ## 🚀 Proyectos destacados
 
-🔹 📈 **[E-commerce Analysis](https://github.com/AnVales/TuRepositorio)**  
+🔹 📈 **[Analisis de tienda online](https://github.com/AnVales/Analisis-tienda-online)**  
 
 Análisis completo de los datos de una tienda online para extraer insights clave de negocio:  
 
-- 🔍 **Exploración de datos**: revisión de ventas, clientes y categorías de productos.  
-- 📊 **KPIs principales**: ingresos, ticket promedio, clientes recurrentes vs nuevos.  
+- 🔍 **KPIs y métricas clave: beneficios, margen por producto, unidades vendidas, productos más rentables..  
+- 📊 **Análisis temporal: evolución mensual y anual de ventas y beneficios, comparaciones por trimestre..  
 - 📈 **Visualizaciones interactivas**: dashboards en Power BI para la toma de decisiones.  
-- 🤖 **Análisis avanzado**: cohortes de clientes y tendencias de ventas.  
+- 🤖 **Validación de datos: detección de errores comunes (fechas inválidas, precios menores al coste, ventas en cero)..  
 
 💡 Este proyecto refleja mi capacidad para aplicar **análisis de datos al contexto real de negocio** en e-commerce.
 
-🔹 **[Pandas Intro](https://github.com/AnVales/Pandas_intro)**  
-📊 Ejercicios prácticos de análisis y manipulación de datos en Python.  
-
-🔹 **[Power BI](https://github.com/AnVales/Power-BI)**  
-📈 Dashboards interactivos sobre movilidad y deportes.  
+🔹 **[Análisis de móviles](https://github.com/AnVales/dashboard-moviles-powerbi)**  
+📊 Realización de dashboard de Power BI con el análisis de ventas de dispositivos móviles.  
 
 🔹 **[Python for Data Science](https://github.com/AnVales/Python-for-Data-Science)**  
 🐍 Ejercicios del curso de IBM: desde fundamentos de Python hasta análisis con Pandas y Numpy.  
 
-🔹 **[Intro to Machine Learning](https://github.com/AnVales/Intro_to_Machine_Learning)**  
-🤖 Modelos de clasificación y regresión, validación y Random Forest.  
 
 ---
 
