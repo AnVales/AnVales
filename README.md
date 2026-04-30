@@ -17,7 +17,7 @@ Transformo datos en información valiosa para la toma de decisiones estratégica
 ---
 
 ## 🚀 Proyectos destacados
-🔹 **🧬 Análisis de estructura genética en Helianthus annuus(https://github.com/AnVales/helianthus-popgen-pca)**
+🔹 **🧬 [Análisis de estructura genética en Helianthus annuus](https://github.com/AnVales/helianthus-popgen-pca)**
 
 Análisis completo de datos genómicos para detectar estructura poblacional a partir de SNPs de genoma completo:
 
