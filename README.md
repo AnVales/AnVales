@@ -21,13 +21,13 @@ Transformo datos en información valiosa para la toma de decisiones estratégica
 
 Análisis completo de datos genómicos para detectar estructura poblacional a partir de SNPs de genoma completo:
 
-🧩 Procesamiento de datos VCF: filtrado de variantes, selección de SNPs bialélicos y control de calidad (MAF, missing data).
-🧬 Análisis de genética de poblaciones: reducción de dimensionalidad mediante PCA y eliminación de redundancia genética (LD pruning).
-📊 Detección de estructura genética: identificación de clusters mediante clustering no supervisado (K-means).
-📏 Validación estadística: evaluación de la separación entre grupos con silhouette score (0.78, alta robustez).
-🔬 Interpretación biológica: identificación de subestructura genética y patrones de diferenciación poblacional.
+🧩 **Procesamiento de datos VCF**: filtrado de variantes, selección de SNPs bialélicos y control de calidad (MAF, missing data)..  
+🧬 **Análisis de genética de poblaciones**: reducción de dimensionalidad mediante PCA y eliminación de redundancia genética (LD pruning)..  
+📊 **Detección de estructura genética**: identificación de clusters mediante clustering no supervisado (K-means)..  
+📏 **Validación estadística**: evaluación de la separación entre grupos con silhouette score (0.78, alta robustez)..  
+🔬 **Interpretación biológica**: identificación de subestructura genética y patrones de diferenciación poblacional..  
 
-💡 Este proyecto refleja mi capacidad para trabajar con datos de secuenciación real y aplicar técnicas de genética de poblaciones y análisis computacional.
+💡 Este proyecto refleja mi capacidad para trabajar con datos de secuenciación real y aplicar técnicas de genética de poblaciones y análisis computacional..  
 
 🔹 📈 **[Analisis de tienda online](https://github.com/AnVales/Analisis-tienda-online)**  
 
