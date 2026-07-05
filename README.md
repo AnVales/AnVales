@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Ángela Vales  
+# 👋 ¡Hola! Soy Ángela   
 
 🎯 **Analista de Datos en búsqueda activa de nuevas oportunidades**  
 Transformo datos en información valiosa para la toma de decisiones estratégicas.  
