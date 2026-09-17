@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Ángela   
 
-🎯 **Analista de Datos en búsqueda activa de nuevas oportunidades**  
+🎯 **científica en búsqueda activa de nuevas oportunidades**  
 Transformo datos en información valiosa para la toma de decisiones estratégicas.  
 
 📊 Con experiencia en **Python, SQL y Power BI**, y formación en **Machine Learning y Análisis Predictivo**, me apasiona trabajar con datos reales para resolver problemas de negocio.  
