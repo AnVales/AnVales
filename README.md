@@ -73,5 +73,3 @@ Análisis completo de los datos de una tienda online para extraer insights clave
 
 ---
 
-✨ *Actualmente disponible para oportunidades como **Analista de Datos** (remoto o presencial).*  
-🚀 *Mi objetivo: seguir creciendo en el mundo del Data Science y aportar valor a través de los datos.*  
